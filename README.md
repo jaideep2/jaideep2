@@ -2,7 +2,7 @@
 
 - 🏖️ I’m currently located in Vancouver and looking for new Opportunities!
 - 🌱 I’m currently learning Javascript
-- 📚 Read my [Blog](https://blog.jaideepsingh.in)
+- 📚 Read my [Blog](https://www.jaideep.dev)
 - 💬 Ask me about Python, C# and hardware hacking
 - 📫 Reach me at <a href="https://www.linkedin.com/in/jaideep2/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> 
 - ⚡ Fun fact: I am addicted to news.
