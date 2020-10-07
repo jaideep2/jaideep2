@@ -1,25 +1,7 @@
 ### Hi there 👋
 
-- 🏖️ I’m currently located in Vancouver and looking for new Opportunities!
-- 🌱 I’m currently learning Javascript
+- 🦠 I’m currently located in Vancouver and working with [UBC](https://www.med.ubc.ca) + [BCCDC](http://covid-19.bccdc.ca) + [PHSA](http://www.phsa.ca) teams on their Genome sequencing pipeline
 - 📚 Read my [Blog](https://www.jaideep.dev)
-- 💬 Ask me about Python, C# and hardware hacking
+- 💬 Ask me about Python, Cloud and hardware hacking
 - 📫 Reach me at <a href="https://www.linkedin.com/in/jaideep2/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> 
-- ⚡ Fun fact: I am addicted to news.
-
-
-
-<!--
-**jaideep2/jaideep2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: I am addicted to news AKA current events
