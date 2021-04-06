@@ -4,4 +4,4 @@
 - 📚 Read my [Blog](https://www.jaideep.dev)
 - 💬 Ask me about Python, Cloud and hardware hacking
 - 📫 Reach me at <a href="https://www.linkedin.com/in/jaideep2/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> 
-- ⚡ Fun fact: I am addicted to news AKA current events
+- ⚡ Fun fact: I am a avid reader and love to find new sources for interesting news
